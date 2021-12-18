@@ -5,7 +5,7 @@ This app is can be access through this url https://probackendapp.herokuapp.com/
 
 the paths its support are 
 
-/api/v1/facebbok  it gives the followers, follows and date
+/api/v1/facebook  it gives the followers, follows and date
 
 /api/v1/instagram  it gives the followers, follows and date
 
